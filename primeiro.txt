@@ -1,1 +1,2 @@
 Iniciando o versionamento para o servidor do GitHub
+Edição realizada com sucesso
